@@ -1,6 +1,38 @@
-# ❤️ Zofo Extremo
+# 🔥 Zofo Extremo
 
-> ¡Bienvenido a la guía oficial de instalación para el modpack **Zofo Extremo**! Aquí podrás descargar el modpack oficial y ver los métodos de instalación disponibles.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/14727b65-05e0-45d4-9b0b-3c7b7662098a" alt="Zofo Extremo">
+</p>
+
+<p align="center">
+  <b>Un modpack extremo para Minecraft 1.21.1</b>
+  <br>
+  Fabric • Rendimiento • Mods • Diversión
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft-1.21.1-62b947?style=for-the-badge&logo=minecraft&logoColor=white">
+  <img src="https://img.shields.io/badge/Loader-Fabric-DBD0B4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Modpack-Zofo%20Extremo-e32626?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/tusmocraft/zofoextremo/total?style=flat-square&label=Descargas">
+  <img src="https://img.shields.io/github/last-commit/tusmocraft/zofoextremo?style=flat-square&label=Última%20actualización">
+  <img src="https://img.shields.io/github/repo-size/tusmocraft/zofoextremo?style=flat-square&label=Tamaño">
+  <img src="https://img.shields.io/github/license/tusmocraft/zofoextremo?style=flat-square&label=Licencia">
+</p>
+
+---
+
+## ❤️ Bienvenido a Zofo Extremo
+
+**Zofo Extremo** es un modpack para **Minecraft 1.21.1** basado en **Fabric**, creado para ofrecer una experiencia diferente, divertida y extrema.
+
+El modpack reúne diferentes mods, configuraciones y mejoras para crear una experiencia completa de Minecraft.
+
+> ⚠️ **IMPORTANTE:** Zofo Extremo utiliza **Minecraft 1.21.1 + Fabric**.  
+> No utilices otras versiones de Minecraft o loaders diferentes.
 
 ---
 
