@@ -1,22 +1,25 @@
 # 🔥 Zofo Extremo
 
 <p align="center">
-  <b>Un modpack extremo para Minecraft 1.21.1</b>
+  <strong>Un modpack extremo para Minecraft 1.21.1</strong>
   <br>
   Fabric • Rendimiento • Mods • Diversión
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-1.21.1-62b947?style=for-the-badge&logo=minecraft&logoColor=white">
-  <img src="https://img.shields.io/badge/Loader-Fabric-DBD0B4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Modpack-Zofo%20Extremo-e32626?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Minecraft-1.21.1-55AA33?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft 1.21.1">
+  <img src="https://img.shields.io/badge/Loader-Fabric-D9D2B3?style=for-the-badge" alt="Fabric">
+  <img src="https://img.shields.io/badge/Modpack-Zofo%20Extremo-E32626?style=for-the-badge" alt="Zofo Extremo">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/tusmocraft/zofoextremo/total?style=flat-square&label=Descargas">
-  <img src="https://img.shields.io/github/last-commit/tusmocraft/zofoextremo?style=flat-square&label=Última%20actualización">
-  <img src="https://img.shields.io/github/repo-size/tusmocraft/zofoextremo?style=flat-square&label=Tamaño">
-  <img src="https://img.shields.io/github/license/tusmocraft/zofoextremo?style=flat-square&label=Licencia">
+  <a href="https://github.com/tusmocraft/zofoextremo/releases">
+    <img src="https://img.shields.io/github/v/release/tusmocraft/zofoextremo?style=flat-square&label=Versión" alt="Versión">
+  </a>
+  <a href="https://github.com/tusmocraft/zofoextremo/releases">
+    <img src="https://img.shields.io/github/downloads/tusmocraft/zofoextremo/total?style=flat-square&label=Descargas" alt="Descargas">
+  </a>
+  <img src="https://img.shields.io/github/repo-size/tusmocraft/zofoextremo?style=flat-square&label=Tamaño" alt="Tamaño del repositorio">
 </p>
 
 ---
