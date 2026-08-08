@@ -1,20 +1,11 @@
 # Zofo Extremo
 
-¡Bienvenido a la guía oficial de instalación para el modpack **Zofo Extremo**! Sigue los pasos a continuación para configurarlo correctamente en tu launcher.
+> ¡Bienvenido a la guía oficial de instalación para el modpack **Zofo Extremo**! Aquí podrás descargar el modpack oficial y ver los métodos de instalación disponibles.
 
 ---
 
-## 1. Instalación de PolyMC (Prerrequisito)
 
-Si aún no tienes el launcher, es necesario instalarlo primero:
-
-1. **Descarga:** Ve al sitio web oficial [polymc.org](https://polymc.org/) y descarga la versión correspondiente a tu sistema operativo (Windows, macOS o Linux).
-2. **Instalación:** Ejecuta el archivo descargado y sigue los pasos del asistente de instalación.
-3. **Configuración:** Al abrir PolyMC por primera vez, selecciona tu idioma y vincula tu cuenta de Microsoft/Minecraft.
-
----
-
-## 2. Instalación del Modpack Zofo Extremo
+## 2. Instalación del Modpack (Método PolyMC)
 
 Una vez que tengas PolyMC configurado, sigue estos pasos:
 
@@ -29,9 +20,9 @@ En la ventana emergente, selecciona la opción **"Importar desde URL"** en la ba
 <img width="177" height="32" alt="Seleccionar opción" src="https://github.com/user-attachments/assets/936e4ed9-dcad-4cf3-8386-5cd8c9bc13ce" />
 
 ### Paso 3: Pegar el enlace del modpack
-Copia y pega el siguiente enlace en el cuadro de texto:
+Copia y pega el siguiente enlace directo en el cuadro de texto:
 
-`https://github.com/tusmocraft/zofoextremo/releases/download/relase/zofoextremo.zip`
+[https://github.com/tusmocraft/zofoextremo/releases/download/relase/zofoextremo.zip](https://github.com/tusmocraft/zofoextremo/releases/download/relase/zofoextremo.zip)
 
 Debería verse así en tu pantalla:
 
@@ -54,4 +45,4 @@ Finalmente, presiona el botón **"Lanzar"** en la parte derecha:
 
 <img width="88" height="33" alt="Botón lanzar" src="https://github.com/user-attachments/assets/587ac43c-840e-4f28-968d-91a243d97b32" />
 
-¡Y listo! Ya puedes disfrutar de Zofo Extremo.****
+¡Y listo! Ya puedes disfrutar de Zofo Extremo.
