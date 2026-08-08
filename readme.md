@@ -1,10 +1,6 @@
 # 🔥 Zofo Extremo
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/14727b65-05e0-45d4-9b0b-3c7b7662098a" alt="Zofo Extremo">
-</p>
-
-<p align="center">
   <b>Un modpack extremo para Minecraft 1.21.1</b>
   <br>
   Fabric • Rendimiento • Mods • Diversión
