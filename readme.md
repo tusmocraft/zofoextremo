@@ -19,11 +19,7 @@
   <a href="https://github.com/tusmocraft/zofoextremo/releases">
     <img src="https://img.shields.io/github/downloads/tusmocraft/zofoextremo/total?style=flat-square&label=Descargas" alt="Descargas">
   </a>
-  <a>
-  <img src="https://img.shields.io/github/repo-size/tusmocraft/zofoextremo?style=flat-square&label=Tamaño" alt="Tamaño del repositorio">
-  </a>
   <br>
-  <img src="https://img.shields.io/badge/Discord_ID-423322745443581953-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord ID: 423322745443581953">
 </p>
 
 ---
