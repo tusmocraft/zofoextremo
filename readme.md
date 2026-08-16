@@ -42,7 +42,7 @@ El modpack reúne diferentes mods, configuraciones y mejoras de rendimiento para
 # 📦 Descargas
 
 En nuestra sección de **[Releases](https://github.com/tusmocraft/zofoextremo/releases)** encontrarás los archivos correspondientes según el launcher que utilices:
-
+### 🗂️ Instalación normal [**Descargar minecraft.zip**](https://github.com/tusmocraft/zofoextremo/releases/download/relase/minecraft.zip)
 ### 🟢 1. Para Modrinth App
 [**Descargar Zofo.Extremo.modrinth.mrpack**](https://github.com/tusmocraft/zofoextremo/releases)
 
@@ -51,7 +51,7 @@ En nuestra sección de **[Releases](https://github.com/tusmocraft/zofoextremo/re
 
 ### 🎮 3. Para PolyMC o Prism Launcher
 [**Descargar zofoextremo.zip**](https://github.com/tusmocraft/zofoextremo/releases/download/relase/zofoextremo.zip)
-```text
+
 [https://github.com/tusmocraft/zofoextremo/releases/download/relase/zofoextremo.zip](https://github.com/tusmocraft/zofoextremo/releases/download/relase/zofoextremo.zip)
 ------
 # 🎮 Método 1 — PolyMC
