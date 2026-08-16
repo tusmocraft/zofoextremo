@@ -37,7 +37,7 @@ El modpack reúne diferentes mods, configuraciones y mejoras de rendimiento para
 En nuestra sección de **[Releases](https://github.com/tusmocraft/zofoextremo/releases)** encontrarás los archivos correspondientes según el launcher que utilices:
 ### 🗂️ Instalación normal [**Descargar minecraft.zip**](https://github.com/tusmocraft/zofoextremo/releases/download/relase/minecraft.zip)
 ### 🟢 1. Para Modrinth App
-[**Descargar Zofo.Extremo.modrinth.mrpack**](https://github.com/tusmocraft/zofoextremo/releases)
+[**Descargar Zofo.Extremo.modrinth.mrpack**](https://github.com/tusmocraft/zofoextremo/releases/download/relase/Zofo.Extremo.-.curse.zip)
 
 ### 🟠 2. Para CurseForge App
 [**Descargar Zofo.Extremo.curseforge.zip**](https://github.com/tusmocraft/zofoextremo/releases)
