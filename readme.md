@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Un modpack extremo para Minecraft 1.21.1</strong>
   <br>
-  Fabric • Rendimiento • Mods • Diversión
+  Fabric • Rendimiento • Mods • Diversión Absoluta
 </p>
 
 <p align="center">
@@ -22,43 +22,38 @@
   <a>
   <img src="https://img.shields.io/github/repo-size/tusmocraft/zofoextremo?style=flat-square&label=Tamaño" alt="Tamaño del repositorio">
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/Discord_ID-423322745443581953-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord ID: 423322745443581953">
 </p>
 
 ---
 
 ## ❤️ Bienvenido a Zofo Extremo
 
-**Zofo Extremo** es un modpack para **Minecraft 1.21.1** basado en **Fabric**, creado para ofrecer una experiencia diferente, divertida y extrema.
+**Zofo Extremo** es un modpack para **Minecraft 1.21.1** basado en **Fabric**, creado para ofrecer una experiencia diferente, divertida y extrema. 
 
-El modpack reúne diferentes mods, configuraciones y mejoras para crear una experiencia completa de Minecraft.
+El modpack reúne diferentes mods, configuraciones y mejoras de rendimiento para crear una experiencia de supervivencia completa, desafiante y fluida en Minecraft.
 
 > ⚠️ **IMPORTANTE:** Zofo Extremo utiliza **Minecraft 1.21.1 + Fabric**.  
-> No utilices otras versiones de Minecraft o loaders diferentes.
+> No utilices otras versiones de Minecraft o loaders diferentes (como Forge o NeoForge).
 
 ---
 
 # 📦 Descargas
 
-### 🎮 Modpack para PolyMC
+En nuestra sección de **[Releases](https://github.com/tusmocraft/zofoextremo/releases)** encontrarás los archivos correspondientes según el launcher que utilices:
 
+### 🟢 1. Para Modrinth App
+[**Descargar Zofo.Extremo.modrinth.mrpack**](https://github.com/tusmocraft/zofoextremo/releases)
+
+### 🟠 2. Para CurseForge App
+[**Descargar Zofo.Extremo.curseforge.zip**](https://github.com/tusmocraft/zofoextremo/releases)
+
+### 🎮 3. Para PolyMC o Prism Launcher
 [**Descargar zofoextremo.zip**](https://github.com/tusmocraft/zofoextremo/releases/download/relase/zofoextremo.zip)
-
 ```text
-https://github.com/tusmocraft/zofoextremo/releases/download/relase/zofoextremo.zip
-```
-
-### 🗂️ Instalación normal
-
-[**Descargar minecraft.zip**](https://github.com/tusmocraft/zofoextremo/releases/download/relase/minecraft.zip)
-
-```text
-https://github.com/tusmocraft/zofoextremo/releases/download/relase/minecraft.zip
-```
-
-> 🧵 La instalación normal utiliza **Fabric 1.21.1**.
-
----
-
+[https://github.com/tusmocraft/zofoextremo/releases/download/relase/zofoextremo.zip](https://github.com/tusmocraft/zofoextremo/releases/download/relase/zofoextremo.zip)
+------
 # 🎮 Método 1 — PolyMC
 
 Una vez que tengas PolyMC configurado, sigue estos pasos:
