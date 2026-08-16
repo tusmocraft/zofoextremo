@@ -248,4 +248,6 @@ Ya tienes instalado **Zofo Extremo** mediante el método normal.
 | Archivo                | Descarga                                                                                              |
 | ---------------------- | ----------------------------------------------------------------------------------------------------- |
 | 🎮 PolyMC              | [zofoextremo.zip](https://github.com/tusmocraft/zofoextremo/releases/download/relase/zofoextremo.zip) |
-| 🛠️ Instalación normal | [minecraft.zip](https://github.com/tusmocraft/zofoextremo/releases/download/relase/minecraft.zip)     |
+| 🛠️ Instalación normal  | [minecraft.zip](https://github.com/tusmocraft/zofoextremo/releases/download/relase/minecraft.zip)     |
+|🟢 Modrinth App         |	[Zofo.Extremo.modrinth.mrpack](https://github.com/tusmocraft/zofoextremo/releases)                   |
+|🟠 CurseForge App       |	[Zofo.Extremo.curseforge.zip](https://github.com/tusmocraft/zofoextremo/releases)                    |
