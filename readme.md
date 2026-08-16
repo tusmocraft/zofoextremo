@@ -14,9 +14,6 @@
 
 <p align="center">
   <a href="https://github.com/tusmocraft/zofoextremo/releases">
-    <img src="https://img.shields.io/github/v/release/tusmocraft/zofoextremo?style=flat-square&label=Versión" alt="Versión">
-  </a>
-  <a href="https://github.com/tusmocraft/zofoextremo/releases">
     <img src="https://img.shields.io/github/downloads/tusmocraft/zofoextremo/total?style=flat-square&label=Descargas" alt="Descargas">
   </a>
   <br>
